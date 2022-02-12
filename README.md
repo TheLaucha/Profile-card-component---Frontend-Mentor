@@ -1,6 +1,6 @@
 # Profile-card-component---Frontend-Mentor
 
-![Design preview for the Profile card component challenge hub](./images/desktop-preview.png)
+![Design preview for the Profile card component challenge hub](./src/images/desktop-preview.png)
 
 This is a solution to the [Profile card component challenge hub](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-GHsOYpBBv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -23,7 +23,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://www.frontendmentor.io/solutions/qr-code-component-_rxLdCo_y)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/profile-card-component-5-dR3pkY9)
 - Live Site URL: [Link](https://thelaucha.github.io/Profile-card-component---Frontend-Mentor/)
 
 ## My process
