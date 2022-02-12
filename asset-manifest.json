@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Profile-card-component---Frontend-Mentor/static/js/main.eb442656.js",
+    "static/media/bg-pattern-card.svg": "/Profile-card-component---Frontend-Mentor/static/media/bg-pattern-card.b61daebd3cb4b885d10fd683755d49bb.svg",
+    "index.html": "/Profile-card-component---Frontend-Mentor/index.html",
+    "static/media/bg-pattern-bottom.svg": "/Profile-card-component---Frontend-Mentor/static/media/bg-pattern-bottom.a34eb319c02ad49587c339df93212a6e.svg",
+    "static/media/bg-pattern-top.svg": "/Profile-card-component---Frontend-Mentor/static/media/bg-pattern-top.dae77b1febf9b29fe34ed57eba86693f.svg",
+    "main.eb442656.js.map": "/Profile-card-component---Frontend-Mentor/static/js/main.eb442656.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eb442656.js"
+  ]
+}
